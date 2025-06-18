@@ -4,10 +4,10 @@ from datetime import datetime
 app = Flask(__name__)
 
 valid_keys = {
-    "key123": {"is_used": False, "device_id": None, "last_verified": None},
-    "key1234": {"is_used": False, "device_id": None, "last_verified": None},
-  "key123456": {"is_used": False, "device_id": None, "last_verified": None},
-  "key1234567": {"is_used": False, "device_id": None, "last_verified": None}
+    "TEST1": {"is_used": False, "device_id": None, "last_verified": None},
+    "TEST2": {"is_used": False, "device_id": None, "last_verified": None},
+    "TEST3": {"is_used": False, "device_id": None, "last_verified": None},
+    "TEST4": {"is_used": False, "device_id": None, "last_verified": None}
 }
 
 @app.route('/keys', methods=['GET'])
