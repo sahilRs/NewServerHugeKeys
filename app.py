@@ -12,6 +12,7 @@ valid_keys = {
     "482jd": {"is_used": False, "device_id": None, "last_verified": None},
     "594uz": {"is_used": False, "device_id": None, "last_verified": None},
     "712mf": {"is_used": False, "device_id": None, "last_verified": None},
+    "ADHARCUSTOM-344": {"is_used": False, "device_id": None, "last_verified": None},
     "384qc": {"is_used": False, "device_id": None, "last_verified": None},
     "105rn": {"is_used": False, "device_id": None, "last_verified": None},
     "824yt": {"is_used": False, "device_id": None, "last_verified": None},
