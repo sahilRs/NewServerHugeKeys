@@ -372,7 +372,15 @@ valid_keys = {
     "ADHAR-CUSTOM-68093": {"is_used": False, "device_id": None, "last_verified": None},
     "ADHAR-CUSTOM-73129": {"is_used": False, "device_id": None, "last_verified": None},
     "ADHAR-CUSTOM-97384": {"is_used": False, "device_id": None, "last_verified": None},
-    "ADHAR-CUSTOM-41526": {"is_used": False, "device_id": None, "last_verified": None}
+    "ADHAR-CUSTOM-41526": {"is_used": False, "device_id": None, "last_verified": None},
+    "9fa4c4ee5c": {"is_used": False, "device_id": None, "last_verified": None},
+     "ffec8ee809": {"is_used": False, "device_id": None, "last_verified": None},
+      "bd4b48b1ff": {"is_used": False, "device_id": None, "last_verified": None},
+      "6e2315d291": {"is_used": False, "device_id": None, "last_verified": None},
+      "58be7c1655": {"is_used": False, "device_id": None, "last_verified": None},
+       "6c5dd505c4": {"is_used": False, "device_id": None, "last_verified": None},
+        "d102084582": {"is_used": False, "device_id": None, "last_verified": None},
+         "982d6f5ec5": {"is_used": False, "device_id": None, "last_verified": None}
 }
 
 @app.route('/keys', methods=['GET'])
