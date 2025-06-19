@@ -383,6 +383,7 @@ valid_keys = {
       "58be7c1655": {"is_used": False, "device_id": None, "last_verified": None},
        "6c5dd505c4": {"is_used": False, "device_id": None, "last_verified": None},
         "d102084582": {"is_used": False, "device_id": None, "last_verified": None},
+        "ADPMOBILE-CUSTOM-238": {"is_used": False, "device_id": None, "last_verified": None},
          "982d6f5ec5": {"is_used": False, "device_id": None, "last_verified": None}
 }
 
