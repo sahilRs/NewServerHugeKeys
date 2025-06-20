@@ -8,6 +8,7 @@ valid_keys = {
     "TEST2": {"is_used": False, "device_id": None, "last_verified": None},
     "TEST3": {"is_used": False, "device_id": None, "last_verified": None},
     "TEST4": {"is_used": False, "device_id": None, "last_verified": None},
+    "SANSFE-CUSTOM-1535": {"is_used": False, "device_id": None, "last_verified": None},
     "913ac": {"is_used": False, "device_id": None, "last_verified": None},
     "482jd": {"is_used": False, "device_id": None, "last_verified": None},
     "594uz": {"is_used": False, "device_id": None, "last_verified": None},
