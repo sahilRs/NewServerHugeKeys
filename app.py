@@ -385,7 +385,34 @@ valid_keys = {
        "6c5dd505c4": {"is_used": False, "device_id": None, "last_verified": None},
         "d102084582": {"is_used": False, "device_id": None, "last_verified": None},
         "ADPMOBILE-CUSTOM-238": {"is_used": False, "device_id": None, "last_verified": None},
-         "982d6f5ec5": {"is_used": False, "device_id": None, "last_verified": None}
+         "982d6f5ec5": {"is_used": False, "device_id": None, "last_verified": None},
+    "1216S037": {"is_used": False, "device_id": None, "last_verified": None}, 
+  "1216S492": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S708": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S154": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S980": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S361": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S226": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S577": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S843": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S695": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S419": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S060": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S308": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S774": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S189": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S650": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S235": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S991": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S578": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S824": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S443": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S018": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S394": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S167": {"is_used": False, "device_id": None, "last_verified": None},
+  "1216S609": {"is_used": False, "device_id": None, "last_verified": None}
+
+
 }
 
 @app.route('/keys', methods=['GET'])
