@@ -566,7 +566,10 @@ valid_keys = {
 "2032D04712": {"is_used": False, "device_id": None, "last_verified": None},
 "2032D04847": {"is_used": False, "device_id": None, "last_verified": None},
 "2032D04925": {"is_used": False, "device_id": None, "last_verified": None},
-"2032D05098": {"is_used": False, "device_id": None, "last_verified": None}
+"2032D05098": {"is_used": False, "device_id": None, "last_verified": None},
+"ADHAR-CUSTOM-1823": {"is_used": False, "device_id": None, "last_verified": None},
+"CUSTOM0985": {"is_used": False, "device_id": None, "last_verified": None},
+"CUSTOM37363": {"is_used": False, "device_id": None, "last_verified": None}
  
 
 
