@@ -5,6 +5,8 @@ app = Flask(__name__)
 
 valid_keys = {
     "TEST1": {"is_used": False, "device_id": None, "last_verified": None},
+    "COSECAPTA-1": {"is_used": False, "device_id": None, "last_verified": None},
+    "COSECAPTA-2": {"is_used": False, "device_id": None, "last_verified": None},
     "DEMO11": {"is_used": False, "device_id": None, "last_verified": None},
     "TEST2": {"is_used": False, "device_id": None, "last_verified": None},
     "TEST3": {"is_used": False, "device_id": None, "last_verified": None},
