@@ -9,7 +9,7 @@ valid_keys = {
     "COSECAPTA-2": {"is_used": False, "device_id": None, "last_verified": None},
     "DEMO11": {"is_used": False, "device_id": None, "last_verified": None},
     "TEST2": {"is_used": False, "device_id": None, "last_verified": None},
-    "TEST3": {"is_used": False, "device_id": None, "last_verified": None},
+    "ADHARCUSTOM37363": {"is_used": False, "device_id": None, "last_verified": None},
     "1309f3d6dc": {"is_used": False, "device_id": None, "last_verified": None},
     "SANSFE-CUSTOM-1535": {"is_used": False, "device_id": None, "last_verified": None},
     "913ac": {"is_used": False, "device_id": None, "last_verified": None},
