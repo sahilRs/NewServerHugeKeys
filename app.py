@@ -1007,7 +1007,18 @@ valid_keys = {
   "1336D55IT": {"is_used": False, "device_id": None, "last_verified": None},
   "1336D56OL": {"is_used": False, "device_id": None, "last_verified": None},
   "1336D57KH": {"is_used": False, "device_id": None, "last_verified": None},
-  "1336D58MB": {"is_used": False, "device_id": None, "last_verified": None}       
+  "1336D58MB": {"is_used": False, "device_id": None, "last_verified": None},
+  "CUSTOM0985": {"is_used": False, "device_id": None, "last_verified": None},
+"ADHARCUSTOM629292": {"is_used": False, "device_id": None, "last_verified": None},
+"ADHARCUSTOM62292929": {"is_used": False, "device_id": None, "last_verified": None},
+"ADHARBASE-CUSTOM28282": {"is_used": False, "device_id": None, "last_verified": None},
+"ADHARCUSTOM-344": {"is_used": False, "device_id": None, "last_verified": None},
+"ADHARCUSTOM-343": {"is_used": False, "device_id": None, "last_verified": None},
+"ADHARCUSTOM-342": {"is_used": False, "device_id": None, "last_verified": None},
+"ADHARBASE-CUSTOM-1": {"is_used": False, "device_id": None, "last_verified": None},
+"ADHAR-CUSTOM-23": {"is_used": False, "device_id": None, "last_verified": None},
+"ADHARBASE-CUSTOM-1441": {"is_used": False, "device_id": None, "last_verified": None},
+"ADHAR-CUSTOM-353": {"is_used": False, "device_id": None, "last_verified": None}
     
     
    
