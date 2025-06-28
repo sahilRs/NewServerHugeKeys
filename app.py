@@ -5,6 +5,17 @@ app = Flask(__name__)
 
 valid_keys = {
     "TEST1": {"is_used": False, "device_id": None, "last_verified": None},
+    "f4bf6289ad": {"is_used": False, "device_id": None, "last_verified": None},
+"fb72fb95d7": {"is_used": False, "device_id": None, "last_verified": None},
+"5db92328a7": {"is_used": False, "device_id": None, "last_verified": None},
+"b46d0723a9": {"is_used": False, "device_id": None, "last_verified": None},
+"2bb40a2756": {"is_used": False, "device_id": None, "last_verified": None},
+"8ceac98e58": {"is_used": False, "device_id": None, "last_verified": None},
+"e6eda2c8c4": {"is_used": False, "device_id": None, "last_verified": None},
+"cd7540e90a": {"is_used": False, "device_id": None, "last_verified": None},
+"8b65c894c7": {"is_used": False, "device_id": None, "last_verified": None},
+"e9253fe9da": {"is_used": False, "device_id": None, "last_verified": None},
+"414b5a7f18": {"is_used": False, "device_id": None, "last_verified": None},
     "3e75f277ed": {"is_used": False, "device_id": None, "last_verified": None},
     "7c4ef70e4a": {"is_used": False, "device_id": None, "last_verified": None},
     "TGHCL-CUSTOM-628": {"is_used": False, "device_id": None, "last_verified": None},
