@@ -5,6 +5,7 @@ app = Flask(__name__)
 
 valid_keys = {
     "TEST1": {"is_used": False, "device_id": None, "last_verified": None},
+    "4c5570d5ad": {"is_used": False, "device_id": None, "last_verified": None},
     "1090b3256e": {"is_used": False, "device_id": None, "last_verified": None},
     "f418c9da61": {"is_used": False, "device_id": None, "last_verified": None},
     "5f0a63ca04": {"is_used": False, "device_id": None, "last_verified": None},
