@@ -335,7 +335,6 @@ valid_keys = {
     "ADHAR-CUSTOM-19407": {"is_used": False, "device_id": None, "last_verified": None},
     "ADHAR-CUSTOM-81953": {"is_used": False, "device_id": None, "last_verified": None},
     "ADHAR-CUSTOM-45610": {"is_used": False, "device_id": None, "last_verified": None},
-    "ADHAR-CUSTOM-70961": {"is_used": False, "device_id": None, "last_verified": None},
     "ADHAR-CUSTOM-15830": {"is_used": False, "device_id": None, "last_verified": None},
     "ADHAR-CUSTOM-68429": {"is_used": False, "device_id": None, "last_verified": None},
     "ADHAR-CUSTOM-79015": {"is_used": False, "device_id": None, "last_verified": None},
